@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0088-merge-sorted-array](https://github.com/SuprijaDevi/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0136-single-number](https://github.com/SuprijaDevi/Leetcode/tree/master/0136-single-number) |
+| [0560-subarray-sum-equals-k](https://github.com/SuprijaDevi/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -58,9 +59,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/SuprijaDevi/Leetcode/tree/master/0202-happy-number) |
+| [0560-subarray-sum-equals-k](https://github.com/SuprijaDevi/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 ## Database
 |  |
 | ------- |
 | [0175-combine-two-tables](https://github.com/SuprijaDevi/Leetcode/tree/master/0175-combine-two-tables) |
 | [0181-employees-earning-more-than-their-managers](https://github.com/SuprijaDevi/Leetcode/tree/master/0181-employees-earning-more-than-their-managers) |
+## Prefix Sum
+|  |
+| ------- |
+| [0560-subarray-sum-equals-k](https://github.com/SuprijaDevi/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 <!---LeetCode Topics End-->
