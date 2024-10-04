@@ -23,12 +23,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/SuprijaDevi/Leetcode/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/SuprijaDevi/Leetcode/tree/master/0136-single-number) |
 | [0191-number-of-1-bits](https://github.com/SuprijaDevi/Leetcode/tree/master/0191-number-of-1-bits) |
+| [0371-sum-of-two-integers](https://github.com/SuprijaDevi/Leetcode/tree/master/0371-sum-of-two-integers) |
 ## Math
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/SuprijaDevi/Leetcode/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/SuprijaDevi/Leetcode/tree/master/0070-climbing-stairs) |
 | [0202-happy-number](https://github.com/SuprijaDevi/Leetcode/tree/master/0202-happy-number) |
+| [0371-sum-of-two-integers](https://github.com/SuprijaDevi/Leetcode/tree/master/0371-sum-of-two-integers) |
 ## Simulation
 |  |
 | ------- |
