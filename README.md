@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/SuprijaDevi/Leetcode/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/SuprijaDevi/Leetcode/tree/master/0070-climbing-stairs) |
 | [0202-happy-number](https://github.com/SuprijaDevi/Leetcode/tree/master/0202-happy-number) |
+| [0258-add-digits](https://github.com/SuprijaDevi/Leetcode/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/SuprijaDevi/Leetcode/tree/master/0268-missing-number) |
 | [0367-valid-perfect-square](https://github.com/SuprijaDevi/Leetcode/tree/master/0367-valid-perfect-square) |
 | [0371-sum-of-two-integers](https://github.com/SuprijaDevi/Leetcode/tree/master/0371-sum-of-two-integers) |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/SuprijaDevi/Leetcode/tree/master/0067-add-binary) |
+| [0258-add-digits](https://github.com/SuprijaDevi/Leetcode/tree/master/0258-add-digits) |
 | [0898-transpose-matrix](https://github.com/SuprijaDevi/Leetcode/tree/master/0898-transpose-matrix) |
 ## Two Pointers
 |  |
@@ -111,4 +113,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0367-valid-perfect-square](https://github.com/SuprijaDevi/Leetcode/tree/master/0367-valid-perfect-square) |
 | [0540-single-element-in-a-sorted-array](https://github.com/SuprijaDevi/Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/SuprijaDevi/Leetcode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/SuprijaDevi/Leetcode/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
