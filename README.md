@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/SuprijaDevi/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0088-merge-sorted-array](https://github.com/SuprijaDevi/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0136-single-number](https://github.com/SuprijaDevi/Leetcode/tree/master/0136-single-number) |
+| [0169-majority-element](https://github.com/SuprijaDevi/Leetcode/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/SuprijaDevi/Leetcode/tree/master/0268-missing-number) |
 | [0414-third-maximum-number](https://github.com/SuprijaDevi/Leetcode/tree/master/0414-third-maximum-number) |
 | [0540-single-element-in-a-sorted-array](https://github.com/SuprijaDevi/Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
@@ -61,12 +62,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/SuprijaDevi/Leetcode/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/SuprijaDevi/Leetcode/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/SuprijaDevi/Leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/SuprijaDevi/Leetcode/tree/master/0268-missing-number) |
 | [0414-third-maximum-number](https://github.com/SuprijaDevi/Leetcode/tree/master/0414-third-maximum-number) |
 ## Divide and Conquer
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/SuprijaDevi/Leetcode/tree/master/0169-majority-element) |
 | [0191-number-of-1-bits](https://github.com/SuprijaDevi/Leetcode/tree/master/0191-number-of-1-bits) |
 ## Dynamic Programming
 |  |
@@ -80,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0041-first-missing-positive](https://github.com/SuprijaDevi/Leetcode/tree/master/0041-first-missing-positive) |
+| [0169-majority-element](https://github.com/SuprijaDevi/Leetcode/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/SuprijaDevi/Leetcode/tree/master/0202-happy-number) |
 | [0242-valid-anagram](https://github.com/SuprijaDevi/Leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/SuprijaDevi/Leetcode/tree/master/0268-missing-number) |
@@ -97,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/SuprijaDevi/Leetcode/tree/master/0169-majority-element) |
 | [1848-sum-of-unique-elements](https://github.com/SuprijaDevi/Leetcode/tree/master/1848-sum-of-unique-elements) |
 ## Matrix
 |  |
