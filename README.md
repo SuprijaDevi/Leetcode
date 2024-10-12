@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/SuprijaDevi/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/SuprijaDevi/Leetcode/tree/master/0724-find-pivot-index) |
 | [0898-transpose-matrix](https://github.com/SuprijaDevi/Leetcode/tree/master/0898-transpose-matrix) |
+| [1392-find-the-difference-of-two-arrays](https://github.com/SuprijaDevi/Leetcode/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/SuprijaDevi/Leetcode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1677-matrix-diagonal-sum](https://github.com/SuprijaDevi/Leetcode/tree/master/1677-matrix-diagonal-sum) |
 | [1848-sum-of-unique-elements](https://github.com/SuprijaDevi/Leetcode/tree/master/1848-sum-of-unique-elements) |
@@ -112,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/SuprijaDevi/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/SuprijaDevi/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/SuprijaDevi/Leetcode/tree/master/0560-subarray-sum-equals-k) |
+| [1392-find-the-difference-of-two-arrays](https://github.com/SuprijaDevi/Leetcode/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1848-sum-of-unique-elements](https://github.com/SuprijaDevi/Leetcode/tree/master/1848-sum-of-unique-elements) |
 ## Database
 |  |
