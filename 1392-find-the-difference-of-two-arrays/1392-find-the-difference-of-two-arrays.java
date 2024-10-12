@@ -21,9 +21,6 @@ class Solution {
             }
         } 
 
-        resultSet1.sort(null);
-        resultSet2.sort(null);
-        
         List<List<Integer>> result  = new ArrayList<>();
         result.add(resultSet1);
         result.add(resultSet2);
