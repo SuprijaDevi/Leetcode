@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0367-valid-perfect-square](https://github.com/SuprijaDevi/Leetcode/tree/master/0367-valid-perfect-square) |
 | [0371-sum-of-two-integers](https://github.com/SuprijaDevi/Leetcode/tree/master/0371-sum-of-two-integers) |
 | [1013-fibonacci-number](https://github.com/SuprijaDevi/Leetcode/tree/master/1013-fibonacci-number) |
+| [1236-n-th-tribonacci-number](https://github.com/SuprijaDevi/Leetcode/tree/master/1236-n-th-tribonacci-number) |
 | [2571-find-the-pivot-integer](https://github.com/SuprijaDevi/Leetcode/tree/master/2571-find-the-pivot-integer) |
 ## Simulation
 |  |
@@ -102,11 +103,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0070-climbing-stairs](https://github.com/SuprijaDevi/Leetcode/tree/master/0070-climbing-stairs) |
 | [1013-fibonacci-number](https://github.com/SuprijaDevi/Leetcode/tree/master/1013-fibonacci-number) |
+| [1236-n-th-tribonacci-number](https://github.com/SuprijaDevi/Leetcode/tree/master/1236-n-th-tribonacci-number) |
 ## Memoization
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/SuprijaDevi/Leetcode/tree/master/0070-climbing-stairs) |
 | [1013-fibonacci-number](https://github.com/SuprijaDevi/Leetcode/tree/master/1013-fibonacci-number) |
+| [1236-n-th-tribonacci-number](https://github.com/SuprijaDevi/Leetcode/tree/master/1236-n-th-tribonacci-number) |
 ## Hash Table
 |  |
 | ------- |
