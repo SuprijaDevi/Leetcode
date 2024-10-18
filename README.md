@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/SuprijaDevi/Leetcode/tree/master/0344-reverse-string) |
 | [0812-rotate-string](https://github.com/SuprijaDevi/Leetcode/tree/master/0812-rotate-string) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/SuprijaDevi/Leetcode/tree/master/2800-minimum-string-length-after-removing-substrings) |
+| [3379-score-of-a-string](https://github.com/SuprijaDevi/Leetcode/tree/master/3379-score-of-a-string) |
 ## Stack
 |  |
 | ------- |
