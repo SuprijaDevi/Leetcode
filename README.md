@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/SuprijaDevi/Leetcode/tree/master/0020-valid-parentheses) |
 | [0067-add-binary](https://github.com/SuprijaDevi/Leetcode/tree/master/0067-add-binary) |
 | [0151-reverse-words-in-a-string](https://github.com/SuprijaDevi/Leetcode/tree/master/0151-reverse-words-in-a-string) |
+| [0205-isomorphic-strings](https://github.com/SuprijaDevi/Leetcode/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/SuprijaDevi/Leetcode/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/SuprijaDevi/Leetcode/tree/master/0344-reverse-string) |
 | [0812-rotate-string](https://github.com/SuprijaDevi/Leetcode/tree/master/0812-rotate-string) |
@@ -143,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0041-first-missing-positive](https://github.com/SuprijaDevi/Leetcode/tree/master/0041-first-missing-positive) |
 | [0169-majority-element](https://github.com/SuprijaDevi/Leetcode/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/SuprijaDevi/Leetcode/tree/master/0202-happy-number) |
+| [0205-isomorphic-strings](https://github.com/SuprijaDevi/Leetcode/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/SuprijaDevi/Leetcode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/SuprijaDevi/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/SuprijaDevi/Leetcode/tree/master/0242-valid-anagram) |
