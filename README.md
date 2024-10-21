@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/SuprijaDevi/Leetcode/tree/master/0007-reverse-integer) |
+| [0050-powx-n](https://github.com/SuprijaDevi/Leetcode/tree/master/0050-powx-n) |
 | [0067-add-binary](https://github.com/SuprijaDevi/Leetcode/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/SuprijaDevi/Leetcode/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/SuprijaDevi/Leetcode/tree/master/0189-rotate-array) |
@@ -230,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/SuprijaDevi/Leetcode/tree/master/0050-powx-n) |
 | [0231-power-of-two](https://github.com/SuprijaDevi/Leetcode/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/SuprijaDevi/Leetcode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/SuprijaDevi/Leetcode/tree/master/0342-power-of-four) |
