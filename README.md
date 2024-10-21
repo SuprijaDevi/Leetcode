@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0611-valid-triangle-number](https://github.com/SuprijaDevi/Leetcode/tree/master/0611-valid-triangle-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/SuprijaDevi/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0724-find-pivot-index](https://github.com/SuprijaDevi/Leetcode/tree/master/0724-find-pivot-index) |
+| [0745-find-smallest-letter-greater-than-target](https://github.com/SuprijaDevi/Leetcode/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0898-transpose-matrix](https://github.com/SuprijaDevi/Leetcode/tree/master/0898-transpose-matrix) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/SuprijaDevi/Leetcode/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/SuprijaDevi/Leetcode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
@@ -216,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0367-valid-perfect-square](https://github.com/SuprijaDevi/Leetcode/tree/master/0367-valid-perfect-square) |
 | [0540-single-element-in-a-sorted-array](https://github.com/SuprijaDevi/Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0611-valid-triangle-number](https://github.com/SuprijaDevi/Leetcode/tree/master/0611-valid-triangle-number) |
+| [0745-find-smallest-letter-greater-than-target](https://github.com/SuprijaDevi/Leetcode/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/SuprijaDevi/Leetcode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 ## Number Theory
 |  |
