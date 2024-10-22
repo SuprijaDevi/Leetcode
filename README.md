@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2058-concatenation-of-array](https://github.com/SuprijaDevi/Leetcode/tree/master/2058-concatenation-of-array) |
 | [2122-count-special-quadruplets](https://github.com/SuprijaDevi/Leetcode/tree/master/2122-count-special-quadruplets) |
 | [3446-find-the-number-of-good-pairs-i](https://github.com/SuprijaDevi/Leetcode/tree/master/3446-find-the-number-of-good-pairs-i) |
+| [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/SuprijaDevi/Leetcode/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/SuprijaDevi/Leetcode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 ## Bit Manipulation
 |  |
@@ -100,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2491-smallest-even-multiple](https://github.com/SuprijaDevi/Leetcode/tree/master/2491-smallest-even-multiple) |
 | [2571-find-the-pivot-integer](https://github.com/SuprijaDevi/Leetcode/tree/master/2571-find-the-pivot-integer) |
 | [2812-find-the-maximum-achievable-number](https://github.com/SuprijaDevi/Leetcode/tree/master/2812-find-the-maximum-achievable-number) |
+| [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/SuprijaDevi/Leetcode/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/SuprijaDevi/Leetcode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 ## Simulation
 |  |
