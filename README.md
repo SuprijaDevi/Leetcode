@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1848-sum-of-unique-elements](https://github.com/SuprijaDevi/Leetcode/tree/master/1848-sum-of-unique-elements) |
 | [2058-concatenation-of-array](https://github.com/SuprijaDevi/Leetcode/tree/master/2058-concatenation-of-array) |
 | [2122-count-special-quadruplets](https://github.com/SuprijaDevi/Leetcode/tree/master/2122-count-special-quadruplets) |
+| [2331-intersection-of-multiple-arrays](https://github.com/SuprijaDevi/Leetcode/tree/master/2331-intersection-of-multiple-arrays) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/SuprijaDevi/Leetcode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 | [3331-minimum-operations-to-exceed-threshold-value-i](https://github.com/SuprijaDevi/Leetcode/tree/master/3331-minimum-operations-to-exceed-threshold-value-i) |
 | [3446-find-the-number-of-good-pairs-i](https://github.com/SuprijaDevi/Leetcode/tree/master/3446-find-the-number-of-good-pairs-i) |
@@ -148,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0414-third-maximum-number](https://github.com/SuprijaDevi/Leetcode/tree/master/0414-third-maximum-number) |
 | [0611-valid-triangle-number](https://github.com/SuprijaDevi/Leetcode/tree/master/0611-valid-triangle-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/SuprijaDevi/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
+| [2331-intersection-of-multiple-arrays](https://github.com/SuprijaDevi/Leetcode/tree/master/2331-intersection-of-multiple-arrays) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/SuprijaDevi/Leetcode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 ## Divide and Conquer
 |  |
@@ -192,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1848-sum-of-unique-elements](https://github.com/SuprijaDevi/Leetcode/tree/master/1848-sum-of-unique-elements) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/SuprijaDevi/Leetcode/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [2122-count-special-quadruplets](https://github.com/SuprijaDevi/Leetcode/tree/master/2122-count-special-quadruplets) |
+| [2331-intersection-of-multiple-arrays](https://github.com/SuprijaDevi/Leetcode/tree/master/2331-intersection-of-multiple-arrays) |
 | [3446-find-the-number-of-good-pairs-i](https://github.com/SuprijaDevi/Leetcode/tree/master/3446-find-the-number-of-good-pairs-i) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/SuprijaDevi/Leetcode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 ## Database
@@ -215,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/SuprijaDevi/Leetcode/tree/master/0229-majority-element-ii) |
 | [1635-number-of-good-pairs](https://github.com/SuprijaDevi/Leetcode/tree/master/1635-number-of-good-pairs) |
 | [1848-sum-of-unique-elements](https://github.com/SuprijaDevi/Leetcode/tree/master/1848-sum-of-unique-elements) |
+| [2331-intersection-of-multiple-arrays](https://github.com/SuprijaDevi/Leetcode/tree/master/2331-intersection-of-multiple-arrays) |
 ## Matrix
 |  |
 | ------- |
