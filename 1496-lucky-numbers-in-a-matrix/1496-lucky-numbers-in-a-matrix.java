@@ -7,7 +7,7 @@ class Solution {
         for(int i=0; i<row; i++) {
             int min = matrix[i][0];
             int jIndex = 0;
-            for(int j=0; j<col; j++) {
+            for(int j=1; j<col; j++) {
                 if(matrix[i][j] < min) {
                     min = matrix[i][j];
                     jIndex = j;
