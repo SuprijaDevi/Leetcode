@@ -6,7 +6,7 @@ class Solution {
         for(int[] rowArr : nums) {
             Arrays.sort(rowArr);
         }
-        for(int i=col-1; i>=0; i--) {
+        for(int i=0; i<col; i++) {
             int max = 0;
             for(int j=0; j<row; j++) {
                 max = Math.max(max, nums[j][i]);
