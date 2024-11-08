@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/SuprijaDevi/Leetcode/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/SuprijaDevi/Leetcode/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/SuprijaDevi/Leetcode/tree/master/0344-reverse-string) |
+| [0415-add-strings](https://github.com/SuprijaDevi/Leetcode/tree/master/0415-add-strings) |
 | [0812-rotate-string](https://github.com/SuprijaDevi/Leetcode/tree/master/0812-rotate-string) |
 | [1205-defanging-an-ip-address](https://github.com/SuprijaDevi/Leetcode/tree/master/1205-defanging-an-ip-address) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/SuprijaDevi/Leetcode/tree/master/1667-find-kth-bit-in-nth-binary-string) |
@@ -108,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0342-power-of-four](https://github.com/SuprijaDevi/Leetcode/tree/master/0342-power-of-four) |
 | [0367-valid-perfect-square](https://github.com/SuprijaDevi/Leetcode/tree/master/0367-valid-perfect-square) |
 | [0371-sum-of-two-integers](https://github.com/SuprijaDevi/Leetcode/tree/master/0371-sum-of-two-integers) |
+| [0415-add-strings](https://github.com/SuprijaDevi/Leetcode/tree/master/0415-add-strings) |
 | [0628-maximum-product-of-three-numbers](https://github.com/SuprijaDevi/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1013-fibonacci-number](https://github.com/SuprijaDevi/Leetcode/tree/master/1013-fibonacci-number) |
 | [1236-n-th-tribonacci-number](https://github.com/SuprijaDevi/Leetcode/tree/master/1236-n-th-tribonacci-number) |
@@ -125,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0059-spiral-matrix-ii](https://github.com/SuprijaDevi/Leetcode/tree/master/0059-spiral-matrix-ii) |
 | [0067-add-binary](https://github.com/SuprijaDevi/Leetcode/tree/master/0067-add-binary) |
 | [0258-add-digits](https://github.com/SuprijaDevi/Leetcode/tree/master/0258-add-digits) |
+| [0415-add-strings](https://github.com/SuprijaDevi/Leetcode/tree/master/0415-add-strings) |
 | [0566-reshape-the-matrix](https://github.com/SuprijaDevi/Leetcode/tree/master/0566-reshape-the-matrix) |
 | [0898-transpose-matrix](https://github.com/SuprijaDevi/Leetcode/tree/master/0898-transpose-matrix) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/SuprijaDevi/Leetcode/tree/master/1667-find-kth-bit-in-nth-binary-string) |
