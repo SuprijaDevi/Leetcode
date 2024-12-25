@@ -1,17 +1,18 @@
 class Solution {
     public int numberOfSpecialChars(String word) {
-        Set<Character> seen = new HashSet<>();
-        int count = 0;
+        Set<Character> small = new HashSet<>();
+        Set<Character> capital = new HashSet<>();
 
-        for (char c : word.toCharArray()) {
-            if (seen.contains(Character.toLowerCase(c)) || seen.contains(Character.toUpperCase(c))) {
-                continue;
+        for(char c : word.toCharArray()) {
+            if(c >= 'a' && c <= 'z') {
+                small.add(c);
+            } else {
+                capital.add(c);
             }
-
-            seen.add(c);
-            char oppositeCase = Character.isLowerCase(c) ? Character.toUpperCase(c) : Character.toLowerCase(c);
-
-            if (word.indexOf(oppositeCase) != -1) { 
+        }
+        int count = 0;
+        for(char c : small) {
+            if(capital.contains(Character.toUpperCase(c))) {
                 count++;
             }
         }
