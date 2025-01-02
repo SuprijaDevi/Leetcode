@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/SuprijaDevi/Leetcode/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/SuprijaDevi/Leetcode/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [2580-circular-sentence](https://github.com/SuprijaDevi/Leetcode/tree/master/2580-circular-sentence) |
+| [2691-count-vowel-strings-in-ranges](https://github.com/SuprijaDevi/Leetcode/tree/master/2691-count-vowel-strings-in-ranges) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/SuprijaDevi/Leetcode/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [3174-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/SuprijaDevi/Leetcode/tree/master/3174-minimum-number-of-changes-to-make-binary-string-beautiful) |
 | [3379-score-of-a-string](https://github.com/SuprijaDevi/Leetcode/tree/master/3379-score-of-a-string) |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2122-count-special-quadruplets](https://github.com/SuprijaDevi/Leetcode/tree/master/2122-count-special-quadruplets) |
 | [2195-time-needed-to-buy-tickets](https://github.com/SuprijaDevi/Leetcode/tree/master/2195-time-needed-to-buy-tickets) |
 | [2331-intersection-of-multiple-arrays](https://github.com/SuprijaDevi/Leetcode/tree/master/2331-intersection-of-multiple-arrays) |
+| [2691-count-vowel-strings-in-ranges](https://github.com/SuprijaDevi/Leetcode/tree/master/2691-count-vowel-strings-in-ranges) |
 | [2728-sum-in-a-matrix](https://github.com/SuprijaDevi/Leetcode/tree/master/2728-sum-in-a-matrix) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/SuprijaDevi/Leetcode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 | [3321-type-of-triangle](https://github.com/SuprijaDevi/Leetcode/tree/master/3321-type-of-triangle) |
@@ -243,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/SuprijaDevi/Leetcode/tree/master/0724-find-pivot-index) |
 | [1603-running-sum-of-1d-array](https://github.com/SuprijaDevi/Leetcode/tree/master/1603-running-sum-of-1d-array) |
 | [2571-find-the-pivot-integer](https://github.com/SuprijaDevi/Leetcode/tree/master/2571-find-the-pivot-integer) |
+| [2691-count-vowel-strings-in-ranges](https://github.com/SuprijaDevi/Leetcode/tree/master/2691-count-vowel-strings-in-ranges) |
 ## Counting
 |  |
 | ------- |
