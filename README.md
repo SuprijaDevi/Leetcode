@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0059-spiral-matrix-ii](https://github.com/SuprijaDevi/Leetcode/tree/master/0059-spiral-matrix-ii) |
 | [0073-set-matrix-zeroes](https://github.com/SuprijaDevi/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/SuprijaDevi/Leetcode/tree/master/0074-search-a-2d-matrix) |
+| [0078-subsets](https://github.com/SuprijaDevi/Leetcode/tree/master/0078-subsets) |
 | [0088-merge-sorted-array](https://github.com/SuprijaDevi/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/SuprijaDevi/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/SuprijaDevi/Leetcode/tree/master/0136-single-number) |
@@ -99,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/SuprijaDevi/Leetcode/tree/master/0067-add-binary) |
+| [0078-subsets](https://github.com/SuprijaDevi/Leetcode/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/SuprijaDevi/Leetcode/tree/master/0136-single-number) |
 | [0191-number-of-1-bits](https://github.com/SuprijaDevi/Leetcode/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/SuprijaDevi/Leetcode/tree/master/0231-power-of-two) |
@@ -373,4 +375,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/SuprijaDevi/Leetcode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/SuprijaDevi/Leetcode/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
