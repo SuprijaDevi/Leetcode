@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/SuprijaDevi/Leetcode/tree/master/0724-find-pivot-index) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/SuprijaDevi/Leetcode/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0898-transpose-matrix](https://github.com/SuprijaDevi/Leetcode/tree/master/0898-transpose-matrix) |
+| [1137-height-checker](https://github.com/SuprijaDevi/Leetcode/tree/master/1137-height-checker) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/SuprijaDevi/Leetcode/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/SuprijaDevi/Leetcode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/SuprijaDevi/Leetcode/tree/master/1496-lucky-numbers-in-a-matrix) |
@@ -195,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0414-third-maximum-number](https://github.com/SuprijaDevi/Leetcode/tree/master/0414-third-maximum-number) |
 | [0611-valid-triangle-number](https://github.com/SuprijaDevi/Leetcode/tree/master/0611-valid-triangle-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/SuprijaDevi/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
+| [1137-height-checker](https://github.com/SuprijaDevi/Leetcode/tree/master/1137-height-checker) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/SuprijaDevi/Leetcode/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [1730-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/SuprijaDevi/Leetcode/tree/master/1730-special-array-with-x-elements-greater-than-or-equal-x) |
 | [2331-intersection-of-multiple-arrays](https://github.com/SuprijaDevi/Leetcode/tree/master/2331-intersection-of-multiple-arrays) |
@@ -450,4 +452,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0102-binary-tree-level-order-traversal](https://github.com/SuprijaDevi/Leetcode/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/SuprijaDevi/Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0127-word-ladder](https://github.com/SuprijaDevi/Leetcode/tree/master/0127-word-ladder) |
+## Counting Sort
+|  |
+| ------- |
+| [1137-height-checker](https://github.com/SuprijaDevi/Leetcode/tree/master/1137-height-checker) |
 <!---LeetCode Topics End-->
