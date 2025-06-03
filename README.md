@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/SuprijaDevi/Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0014-longest-common-prefix](https://github.com/SuprijaDevi/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/SuprijaDevi/Leetcode/tree/master/0020-valid-parentheses) |
+| [0043-multiply-strings](https://github.com/SuprijaDevi/Leetcode/tree/master/0043-multiply-strings) |
 | [0067-add-binary](https://github.com/SuprijaDevi/Leetcode/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/SuprijaDevi/Leetcode/tree/master/0125-valid-palindrome) |
 | [0127-word-ladder](https://github.com/SuprijaDevi/Leetcode/tree/master/0127-word-ladder) |
@@ -126,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/SuprijaDevi/Leetcode/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/SuprijaDevi/Leetcode/tree/master/0007-reverse-integer) |
 | [0029-divide-two-integers](https://github.com/SuprijaDevi/Leetcode/tree/master/0029-divide-two-integers) |
+| [0043-multiply-strings](https://github.com/SuprijaDevi/Leetcode/tree/master/0043-multiply-strings) |
 | [0050-powx-n](https://github.com/SuprijaDevi/Leetcode/tree/master/0050-powx-n) |
 | [0067-add-binary](https://github.com/SuprijaDevi/Leetcode/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/SuprijaDevi/Leetcode/tree/master/0070-climbing-stairs) |
@@ -157,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/SuprijaDevi/Leetcode/tree/master/0043-multiply-strings) |
 | [0054-spiral-matrix](https://github.com/SuprijaDevi/Leetcode/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/SuprijaDevi/Leetcode/tree/master/0059-spiral-matrix-ii) |
 | [0067-add-binary](https://github.com/SuprijaDevi/Leetcode/tree/master/0067-add-binary) |
