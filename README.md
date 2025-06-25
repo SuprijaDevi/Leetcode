@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/SuprijaDevi/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0409-longest-palindrome](https://github.com/SuprijaDevi/Leetcode/tree/master/0409-longest-palindrome) |
 | [0415-add-strings](https://github.com/SuprijaDevi/Leetcode/tree/master/0415-add-strings) |
+| [0599-minimum-index-sum-of-two-lists](https://github.com/SuprijaDevi/Leetcode/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0812-rotate-string](https://github.com/SuprijaDevi/Leetcode/tree/master/0812-rotate-string) |
 | [0889-buddy-strings](https://github.com/SuprijaDevi/Leetcode/tree/master/0889-buddy-strings) |
 | [1205-defanging-an-ip-address](https://github.com/SuprijaDevi/Leetcode/tree/master/1205-defanging-an-ip-address) |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0540-single-element-in-a-sorted-array](https://github.com/SuprijaDevi/Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/SuprijaDevi/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0566-reshape-the-matrix](https://github.com/SuprijaDevi/Leetcode/tree/master/0566-reshape-the-matrix) |
+| [0599-minimum-index-sum-of-two-lists](https://github.com/SuprijaDevi/Leetcode/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0611-valid-triangle-number](https://github.com/SuprijaDevi/Leetcode/tree/master/0611-valid-triangle-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/SuprijaDevi/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0682-baseball-game](https://github.com/SuprijaDevi/Leetcode/tree/master/0682-baseball-game) |
@@ -261,6 +263,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0442-find-all-duplicates-in-an-array](https://github.com/SuprijaDevi/Leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/SuprijaDevi/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/SuprijaDevi/Leetcode/tree/master/0560-subarray-sum-equals-k) |
+| [0599-minimum-index-sum-of-two-lists](https://github.com/SuprijaDevi/Leetcode/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0889-buddy-strings](https://github.com/SuprijaDevi/Leetcode/tree/master/0889-buddy-strings) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/SuprijaDevi/Leetcode/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1635-number-of-good-pairs](https://github.com/SuprijaDevi/Leetcode/tree/master/1635-number-of-good-pairs) |
