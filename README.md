@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/SuprijaDevi/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0409-longest-palindrome](https://github.com/SuprijaDevi/Leetcode/tree/master/0409-longest-palindrome) |
 | [0415-add-strings](https://github.com/SuprijaDevi/Leetcode/tree/master/0415-add-strings) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/SuprijaDevi/Leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/SuprijaDevi/Leetcode/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0657-robot-return-to-origin](https://github.com/SuprijaDevi/Leetcode/tree/master/0657-robot-return-to-origin) |
 | [0812-rotate-string](https://github.com/SuprijaDevi/Leetcode/tree/master/0812-rotate-string) |
@@ -263,6 +264,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0355-design-twitter](https://github.com/SuprijaDevi/Leetcode/tree/master/0355-design-twitter) |
 | [0387-first-unique-character-in-a-string](https://github.com/SuprijaDevi/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0409-longest-palindrome](https://github.com/SuprijaDevi/Leetcode/tree/master/0409-longest-palindrome) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/SuprijaDevi/Leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/SuprijaDevi/Leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/SuprijaDevi/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/SuprijaDevi/Leetcode/tree/master/0560-subarray-sum-equals-k) |
@@ -360,6 +362,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/SuprijaDevi/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0219-contains-duplicate-ii](https://github.com/SuprijaDevi/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0239-sliding-window-maximum](https://github.com/SuprijaDevi/Leetcode/tree/master/0239-sliding-window-maximum) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/SuprijaDevi/Leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
 ## Greedy
 |  |
 | ------- |
