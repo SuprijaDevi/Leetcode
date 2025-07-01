@@ -91,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/SuprijaDevi/Leetcode/tree/master/0724-find-pivot-index) |
 | [0735-asteroid-collision](https://github.com/SuprijaDevi/Leetcode/tree/master/0735-asteroid-collision) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/SuprijaDevi/Leetcode/tree/master/0745-find-smallest-letter-greater-than-target) |
+| [0861-flipping-an-image](https://github.com/SuprijaDevi/Leetcode/tree/master/0861-flipping-an-image) |
 | [0898-transpose-matrix](https://github.com/SuprijaDevi/Leetcode/tree/master/0898-transpose-matrix) |
 | [1137-height-checker](https://github.com/SuprijaDevi/Leetcode/tree/master/1137-height-checker) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/SuprijaDevi/Leetcode/tree/master/1392-find-the-difference-of-two-arrays) |
@@ -130,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/SuprijaDevi/Leetcode/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/SuprijaDevi/Leetcode/tree/master/0342-power-of-four) |
 | [0371-sum-of-two-integers](https://github.com/SuprijaDevi/Leetcode/tree/master/0371-sum-of-two-integers) |
+| [0861-flipping-an-image](https://github.com/SuprijaDevi/Leetcode/tree/master/0861-flipping-an-image) |
 ## Math
 |  |
 | ------- |
@@ -179,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0657-robot-return-to-origin](https://github.com/SuprijaDevi/Leetcode/tree/master/0657-robot-return-to-origin) |
 | [0682-baseball-game](https://github.com/SuprijaDevi/Leetcode/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/SuprijaDevi/Leetcode/tree/master/0735-asteroid-collision) |
+| [0861-flipping-an-image](https://github.com/SuprijaDevi/Leetcode/tree/master/0861-flipping-an-image) |
 | [0898-transpose-matrix](https://github.com/SuprijaDevi/Leetcode/tree/master/0898-transpose-matrix) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/SuprijaDevi/Leetcode/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 | [1708-design-parking-system](https://github.com/SuprijaDevi/Leetcode/tree/master/1708-design-parking-system) |
@@ -203,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/SuprijaDevi/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/SuprijaDevi/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0611-valid-triangle-number](https://github.com/SuprijaDevi/Leetcode/tree/master/0611-valid-triangle-number) |
+| [0861-flipping-an-image](https://github.com/SuprijaDevi/Leetcode/tree/master/0861-flipping-an-image) |
 | [0908-middle-of-the-linked-list](https://github.com/SuprijaDevi/Leetcode/tree/master/0908-middle-of-the-linked-list) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/SuprijaDevi/Leetcode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 ## Sorting
@@ -333,6 +337,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/SuprijaDevi/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/SuprijaDevi/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0566-reshape-the-matrix](https://github.com/SuprijaDevi/Leetcode/tree/master/0566-reshape-the-matrix) |
+| [0861-flipping-an-image](https://github.com/SuprijaDevi/Leetcode/tree/master/0861-flipping-an-image) |
 | [0898-transpose-matrix](https://github.com/SuprijaDevi/Leetcode/tree/master/0898-transpose-matrix) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/SuprijaDevi/Leetcode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/SuprijaDevi/Leetcode/tree/master/1496-lucky-numbers-in-a-matrix) |
