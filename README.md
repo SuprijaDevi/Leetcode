@@ -93,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0745-find-smallest-letter-greater-than-target](https://github.com/SuprijaDevi/Leetcode/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0861-flipping-an-image](https://github.com/SuprijaDevi/Leetcode/tree/master/0861-flipping-an-image) |
 | [0898-transpose-matrix](https://github.com/SuprijaDevi/Leetcode/tree/master/0898-transpose-matrix) |
+| [0917-boats-to-save-people](https://github.com/SuprijaDevi/Leetcode/tree/master/0917-boats-to-save-people) |
 | [1137-height-checker](https://github.com/SuprijaDevi/Leetcode/tree/master/1137-height-checker) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/SuprijaDevi/Leetcode/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/SuprijaDevi/Leetcode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
@@ -210,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0611-valid-triangle-number](https://github.com/SuprijaDevi/Leetcode/tree/master/0611-valid-triangle-number) |
 | [0861-flipping-an-image](https://github.com/SuprijaDevi/Leetcode/tree/master/0861-flipping-an-image) |
 | [0908-middle-of-the-linked-list](https://github.com/SuprijaDevi/Leetcode/tree/master/0908-middle-of-the-linked-list) |
+| [0917-boats-to-save-people](https://github.com/SuprijaDevi/Leetcode/tree/master/0917-boats-to-save-people) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/SuprijaDevi/Leetcode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 ## Sorting
 |  |
@@ -226,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0561-array-partition](https://github.com/SuprijaDevi/Leetcode/tree/master/0561-array-partition) |
 | [0611-valid-triangle-number](https://github.com/SuprijaDevi/Leetcode/tree/master/0611-valid-triangle-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/SuprijaDevi/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
+| [0917-boats-to-save-people](https://github.com/SuprijaDevi/Leetcode/tree/master/0917-boats-to-save-people) |
 | [1137-height-checker](https://github.com/SuprijaDevi/Leetcode/tree/master/1137-height-checker) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/SuprijaDevi/Leetcode/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [1730-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/SuprijaDevi/Leetcode/tree/master/1730-special-array-with-x-elements-greater-than-or-equal-x) |
@@ -383,6 +386,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0409-longest-palindrome](https://github.com/SuprijaDevi/Leetcode/tree/master/0409-longest-palindrome) |
 | [0561-array-partition](https://github.com/SuprijaDevi/Leetcode/tree/master/0561-array-partition) |
 | [0611-valid-triangle-number](https://github.com/SuprijaDevi/Leetcode/tree/master/0611-valid-triangle-number) |
+| [0917-boats-to-save-people](https://github.com/SuprijaDevi/Leetcode/tree/master/0917-boats-to-save-people) |
 ## Recursion
 |  |
 | ------- |
