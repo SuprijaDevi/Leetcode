@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0415-add-strings](https://github.com/SuprijaDevi/Leetcode/tree/master/0415-add-strings) |
 | [0424-longest-repeating-character-replacement](https://github.com/SuprijaDevi/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/SuprijaDevi/Leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0481-magical-string](https://github.com/SuprijaDevi/Leetcode/tree/master/0481-magical-string) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/SuprijaDevi/Leetcode/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0657-robot-return-to-origin](https://github.com/SuprijaDevi/Leetcode/tree/master/0657-robot-return-to-origin) |
 | [0812-rotate-string](https://github.com/SuprijaDevi/Leetcode/tree/master/0812-rotate-string) |
@@ -212,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0345-reverse-vowels-of-a-string](https://github.com/SuprijaDevi/Leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0349-intersection-of-two-arrays](https://github.com/SuprijaDevi/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/SuprijaDevi/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0481-magical-string](https://github.com/SuprijaDevi/Leetcode/tree/master/0481-magical-string) |
 | [0611-valid-triangle-number](https://github.com/SuprijaDevi/Leetcode/tree/master/0611-valid-triangle-number) |
 | [0861-flipping-an-image](https://github.com/SuprijaDevi/Leetcode/tree/master/0861-flipping-an-image) |
 | [0908-middle-of-the-linked-list](https://github.com/SuprijaDevi/Leetcode/tree/master/0908-middle-of-the-linked-list) |
