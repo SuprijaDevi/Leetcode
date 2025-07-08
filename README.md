@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0812-rotate-string](https://github.com/SuprijaDevi/Leetcode/tree/master/0812-rotate-string) |
 | [0889-buddy-strings](https://github.com/SuprijaDevi/Leetcode/tree/master/0889-buddy-strings) |
 | [0953-reverse-only-letters](https://github.com/SuprijaDevi/Leetcode/tree/master/0953-reverse-only-letters) |
+| [1128-remove-all-adjacent-duplicates-in-string](https://github.com/SuprijaDevi/Leetcode/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1205-defanging-an-ip-address](https://github.com/SuprijaDevi/Leetcode/tree/master/1205-defanging-an-ip-address) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/SuprijaDevi/Leetcode/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/SuprijaDevi/Leetcode/tree/master/1960-check-if-the-sentence-is-pangram) |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/SuprijaDevi/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0682-baseball-game](https://github.com/SuprijaDevi/Leetcode/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/SuprijaDevi/Leetcode/tree/master/0735-asteroid-collision) |
+| [1128-remove-all-adjacent-duplicates-in-string](https://github.com/SuprijaDevi/Leetcode/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/SuprijaDevi/Leetcode/tree/master/2800-minimum-string-length-after-removing-substrings) |
 ## Array
 |  |
