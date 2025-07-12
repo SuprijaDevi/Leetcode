@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0094-binary-tree-inorder-traversal](https://github.com/SuprijaDevi/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/SuprijaDevi/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/SuprijaDevi/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
+| [0155-min-stack](https://github.com/SuprijaDevi/Leetcode/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/SuprijaDevi/Leetcode/tree/master/0225-implement-stack-using-queues) |
 | [0316-remove-duplicate-letters](https://github.com/SuprijaDevi/Leetcode/tree/master/0316-remove-duplicate-letters) |
 | [0496-next-greater-element-i](https://github.com/SuprijaDevi/Leetcode/tree/master/0496-next-greater-element-i) |
@@ -445,6 +446,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0155-min-stack](https://github.com/SuprijaDevi/Leetcode/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/SuprijaDevi/Leetcode/tree/master/0225-implement-stack-using-queues) |
 | [0355-design-twitter](https://github.com/SuprijaDevi/Leetcode/tree/master/0355-design-twitter) |
 | [1708-design-parking-system](https://github.com/SuprijaDevi/Leetcode/tree/master/1708-design-parking-system) |
