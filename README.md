@@ -127,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2122-count-special-quadruplets](https://github.com/SuprijaDevi/Leetcode/tree/master/2122-count-special-quadruplets) |
 | [2195-time-needed-to-buy-tickets](https://github.com/SuprijaDevi/Leetcode/tree/master/2195-time-needed-to-buy-tickets) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/SuprijaDevi/Leetcode/tree/master/2292-counting-words-with-a-given-prefix) |
+| [2316-count-hills-and-valleys-in-an-array](https://github.com/SuprijaDevi/Leetcode/tree/master/2316-count-hills-and-valleys-in-an-array) |
 | [2331-intersection-of-multiple-arrays](https://github.com/SuprijaDevi/Leetcode/tree/master/2331-intersection-of-multiple-arrays) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/SuprijaDevi/Leetcode/tree/master/2691-count-vowel-strings-in-ranges) |
 | [2728-sum-in-a-matrix](https://github.com/SuprijaDevi/Leetcode/tree/master/2728-sum-in-a-matrix) |
