@@ -130,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2058-concatenation-of-array](https://github.com/SuprijaDevi/Leetcode/tree/master/2058-concatenation-of-array) |
 | [2122-count-special-quadruplets](https://github.com/SuprijaDevi/Leetcode/tree/master/2122-count-special-quadruplets) |
 | [2195-time-needed-to-buy-tickets](https://github.com/SuprijaDevi/Leetcode/tree/master/2195-time-needed-to-buy-tickets) |
+| [2210-find-target-indices-after-sorting-array](https://github.com/SuprijaDevi/Leetcode/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/SuprijaDevi/Leetcode/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2316-count-hills-and-valleys-in-an-array](https://github.com/SuprijaDevi/Leetcode/tree/master/2316-count-hills-and-valleys-in-an-array) |
 | [2331-intersection-of-multiple-arrays](https://github.com/SuprijaDevi/Leetcode/tree/master/2331-intersection-of-multiple-arrays) |
@@ -264,6 +265,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1137-height-checker](https://github.com/SuprijaDevi/Leetcode/tree/master/1137-height-checker) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/SuprijaDevi/Leetcode/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [1730-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/SuprijaDevi/Leetcode/tree/master/1730-special-array-with-x-elements-greater-than-or-equal-x) |
+| [2210-find-target-indices-after-sorting-array](https://github.com/SuprijaDevi/Leetcode/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2331-intersection-of-multiple-arrays](https://github.com/SuprijaDevi/Leetcode/tree/master/2331-intersection-of-multiple-arrays) |
 | [2728-sum-in-a-matrix](https://github.com/SuprijaDevi/Leetcode/tree/master/2728-sum-in-a-matrix) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/SuprijaDevi/Leetcode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
@@ -411,6 +413,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/SuprijaDevi/Leetcode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1646-kth-missing-positive-number](https://github.com/SuprijaDevi/Leetcode/tree/master/1646-kth-missing-positive-number) |
 | [1730-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/SuprijaDevi/Leetcode/tree/master/1730-special-array-with-x-elements-greater-than-or-equal-x) |
+| [2210-find-target-indices-after-sorting-array](https://github.com/SuprijaDevi/Leetcode/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/SuprijaDevi/Leetcode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 ## Number Theory
 |  |
