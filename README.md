@@ -134,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2292-counting-words-with-a-given-prefix](https://github.com/SuprijaDevi/Leetcode/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2316-count-hills-and-valleys-in-an-array](https://github.com/SuprijaDevi/Leetcode/tree/master/2316-count-hills-and-valleys-in-an-array) |
 | [2331-intersection-of-multiple-arrays](https://github.com/SuprijaDevi/Leetcode/tree/master/2331-intersection-of-multiple-arrays) |
+| [2519-find-the-original-array-of-prefix-xor](https://github.com/SuprijaDevi/Leetcode/tree/master/2519-find-the-original-array-of-prefix-xor) |
 | [2634-minimum-common-value](https://github.com/SuprijaDevi/Leetcode/tree/master/2634-minimum-common-value) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/SuprijaDevi/Leetcode/tree/master/2691-count-vowel-strings-in-ranges) |
 | [2722-prime-in-diagonal](https://github.com/SuprijaDevi/Leetcode/tree/master/2722-prime-in-diagonal) |
@@ -163,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0371-sum-of-two-integers](https://github.com/SuprijaDevi/Leetcode/tree/master/0371-sum-of-two-integers) |
 | [0645-set-mismatch](https://github.com/SuprijaDevi/Leetcode/tree/master/0645-set-mismatch) |
 | [0861-flipping-an-image](https://github.com/SuprijaDevi/Leetcode/tree/master/0861-flipping-an-image) |
+| [2519-find-the-original-array-of-prefix-xor](https://github.com/SuprijaDevi/Leetcode/tree/master/2519-find-the-original-array-of-prefix-xor) |
 | [3428-find-the-xor-of-numbers-which-appear-twice](https://github.com/SuprijaDevi/Leetcode/tree/master/3428-find-the-xor-of-numbers-which-appear-twice) |
 ## Math
 |  |
