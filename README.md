@@ -168,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0371-sum-of-two-integers](https://github.com/SuprijaDevi/Leetcode/tree/master/0371-sum-of-two-integers) |
 | [0645-set-mismatch](https://github.com/SuprijaDevi/Leetcode/tree/master/0645-set-mismatch) |
 | [0861-flipping-an-image](https://github.com/SuprijaDevi/Leetcode/tree/master/0861-flipping-an-image) |
+| [1054-complement-of-base-10-integer](https://github.com/SuprijaDevi/Leetcode/tree/master/1054-complement-of-base-10-integer) |
 | [2519-find-the-original-array-of-prefix-xor](https://github.com/SuprijaDevi/Leetcode/tree/master/2519-find-the-original-array-of-prefix-xor) |
 | [3428-find-the-xor-of-numbers-which-appear-twice](https://github.com/SuprijaDevi/Leetcode/tree/master/3428-find-the-xor-of-numbers-which-appear-twice) |
 ## Math
