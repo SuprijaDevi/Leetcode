@@ -144,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2722-prime-in-diagonal](https://github.com/SuprijaDevi/Leetcode/tree/master/2722-prime-in-diagonal) |
 | [2728-sum-in-a-matrix](https://github.com/SuprijaDevi/Leetcode/tree/master/2728-sum-in-a-matrix) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/SuprijaDevi/Leetcode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
+| [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/SuprijaDevi/Leetcode/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/SuprijaDevi/Leetcode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3321-type-of-triangle](https://github.com/SuprijaDevi/Leetcode/tree/master/3321-type-of-triangle) |
 | [3331-minimum-operations-to-exceed-threshold-value-i](https://github.com/SuprijaDevi/Leetcode/tree/master/3331-minimum-operations-to-exceed-threshold-value-i) |
