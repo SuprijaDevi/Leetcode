@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/SuprijaDevi/Leetcode/tree/master/0011-container-with-most-water) |
 | [0035-search-insert-position](https://github.com/SuprijaDevi/Leetcode/tree/master/0035-search-insert-position) |
 | [0041-first-missing-positive](https://github.com/SuprijaDevi/Leetcode/tree/master/0041-first-missing-positive) |
+| [0046-permutations](https://github.com/SuprijaDevi/Leetcode/tree/master/0046-permutations) |
 | [0054-spiral-matrix](https://github.com/SuprijaDevi/Leetcode/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/SuprijaDevi/Leetcode/tree/master/0059-spiral-matrix-ii) |
 | [0073-set-matrix-zeroes](https://github.com/SuprijaDevi/Leetcode/tree/master/0073-set-matrix-zeroes) |
@@ -545,6 +546,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0046-permutations](https://github.com/SuprijaDevi/Leetcode/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/SuprijaDevi/Leetcode/tree/master/0078-subsets) |
 | [0257-binary-tree-paths](https://github.com/SuprijaDevi/Leetcode/tree/master/0257-binary-tree-paths) |
 ## Tree
