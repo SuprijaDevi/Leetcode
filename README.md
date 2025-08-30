@@ -131,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1646-kth-missing-positive-number](https://github.com/SuprijaDevi/Leetcode/tree/master/1646-kth-missing-positive-number) |
 | [1677-matrix-diagonal-sum](https://github.com/SuprijaDevi/Leetcode/tree/master/1677-matrix-diagonal-sum) |
 | [1730-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/SuprijaDevi/Leetcode/tree/master/1730-special-array-with-x-elements-greater-than-or-equal-x) |
+| [1833-find-the-highest-altitude](https://github.com/SuprijaDevi/Leetcode/tree/master/1833-find-the-highest-altitude) |
 | [1848-sum-of-unique-elements](https://github.com/SuprijaDevi/Leetcode/tree/master/1848-sum-of-unique-elements) |
 | [2058-concatenation-of-array](https://github.com/SuprijaDevi/Leetcode/tree/master/2058-concatenation-of-array) |
 | [2122-count-special-quadruplets](https://github.com/SuprijaDevi/Leetcode/tree/master/2122-count-special-quadruplets) |
@@ -385,6 +386,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/SuprijaDevi/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/SuprijaDevi/Leetcode/tree/master/0724-find-pivot-index) |
 | [1603-running-sum-of-1d-array](https://github.com/SuprijaDevi/Leetcode/tree/master/1603-running-sum-of-1d-array) |
+| [1833-find-the-highest-altitude](https://github.com/SuprijaDevi/Leetcode/tree/master/1833-find-the-highest-altitude) |
 | [2571-find-the-pivot-integer](https://github.com/SuprijaDevi/Leetcode/tree/master/2571-find-the-pivot-integer) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/SuprijaDevi/Leetcode/tree/master/2691-count-vowel-strings-in-ranges) |
 ## Counting
