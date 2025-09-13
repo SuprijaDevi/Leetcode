@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3408-count-the-number-of-special-characters-i](https://github.com/SuprijaDevi/Leetcode/tree/master/3408-count-the-number-of-special-characters-i) |
 | [3447-clear-digits](https://github.com/SuprijaDevi/Leetcode/tree/master/3447-clear-digits) |
 | [3451-string-compression-iii](https://github.com/SuprijaDevi/Leetcode/tree/master/3451-string-compression-iii) |
+| [3872-find-most-frequent-vowel-and-consonant](https://github.com/SuprijaDevi/Leetcode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Stack
 |  |
 | ------- |
@@ -357,6 +358,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3428-find-the-xor-of-numbers-which-appear-twice](https://github.com/SuprijaDevi/Leetcode/tree/master/3428-find-the-xor-of-numbers-which-appear-twice) |
 | [3446-find-the-number-of-good-pairs-i](https://github.com/SuprijaDevi/Leetcode/tree/master/3446-find-the-number-of-good-pairs-i) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/SuprijaDevi/Leetcode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
+| [3872-find-most-frequent-vowel-and-consonant](https://github.com/SuprijaDevi/Leetcode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 | [3914-check-if-any-element-has-prime-frequency](https://github.com/SuprijaDevi/Leetcode/tree/master/3914-check-if-any-element-has-prime-frequency) |
 ## Database
 |  |
@@ -405,6 +407,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1708-design-parking-system](https://github.com/SuprijaDevi/Leetcode/tree/master/1708-design-parking-system) |
 | [1848-sum-of-unique-elements](https://github.com/SuprijaDevi/Leetcode/tree/master/1848-sum-of-unique-elements) |
 | [2331-intersection-of-multiple-arrays](https://github.com/SuprijaDevi/Leetcode/tree/master/2331-intersection-of-multiple-arrays) |
+| [3872-find-most-frequent-vowel-and-consonant](https://github.com/SuprijaDevi/Leetcode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 | [3914-check-if-any-element-has-prime-frequency](https://github.com/SuprijaDevi/Leetcode/tree/master/3914-check-if-any-element-has-prime-frequency) |
 ## Matrix
 |  |
