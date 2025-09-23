@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0345-reverse-vowels-of-a-string](https://github.com/SuprijaDevi/Leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/SuprijaDevi/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0409-longest-palindrome](https://github.com/SuprijaDevi/Leetcode/tree/master/0409-longest-palindrome) |
+| [0412-fizz-buzz](https://github.com/SuprijaDevi/Leetcode/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/SuprijaDevi/Leetcode/tree/master/0415-add-strings) |
 | [0424-longest-repeating-character-replacement](https://github.com/SuprijaDevi/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/SuprijaDevi/Leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
@@ -202,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0342-power-of-four](https://github.com/SuprijaDevi/Leetcode/tree/master/0342-power-of-four) |
 | [0367-valid-perfect-square](https://github.com/SuprijaDevi/Leetcode/tree/master/0367-valid-perfect-square) |
 | [0371-sum-of-two-integers](https://github.com/SuprijaDevi/Leetcode/tree/master/0371-sum-of-two-integers) |
+| [0412-fizz-buzz](https://github.com/SuprijaDevi/Leetcode/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/SuprijaDevi/Leetcode/tree/master/0415-add-strings) |
 | [0539-minimum-time-difference](https://github.com/SuprijaDevi/Leetcode/tree/master/0539-minimum-time-difference) |
 | [0628-maximum-product-of-three-numbers](https://github.com/SuprijaDevi/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
@@ -231,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/SuprijaDevi/Leetcode/tree/master/0067-add-binary) |
 | [0258-add-digits](https://github.com/SuprijaDevi/Leetcode/tree/master/0258-add-digits) |
 | [0289-game-of-life](https://github.com/SuprijaDevi/Leetcode/tree/master/0289-game-of-life) |
+| [0412-fizz-buzz](https://github.com/SuprijaDevi/Leetcode/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/SuprijaDevi/Leetcode/tree/master/0415-add-strings) |
 | [0566-reshape-the-matrix](https://github.com/SuprijaDevi/Leetcode/tree/master/0566-reshape-the-matrix) |
 | [0657-robot-return-to-origin](https://github.com/SuprijaDevi/Leetcode/tree/master/0657-robot-return-to-origin) |
