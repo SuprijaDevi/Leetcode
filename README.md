@@ -142,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1730-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/SuprijaDevi/Leetcode/tree/master/1730-special-array-with-x-elements-greater-than-or-equal-x) |
 | [1833-find-the-highest-altitude](https://github.com/SuprijaDevi/Leetcode/tree/master/1833-find-the-highest-altitude) |
 | [1848-sum-of-unique-elements](https://github.com/SuprijaDevi/Leetcode/tree/master/1848-sum-of-unique-elements) |
+| [1878-check-if-array-is-sorted-and-rotated](https://github.com/SuprijaDevi/Leetcode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [2058-concatenation-of-array](https://github.com/SuprijaDevi/Leetcode/tree/master/2058-concatenation-of-array) |
 | [2122-count-special-quadruplets](https://github.com/SuprijaDevi/Leetcode/tree/master/2122-count-special-quadruplets) |
 | [2195-time-needed-to-buy-tickets](https://github.com/SuprijaDevi/Leetcode/tree/master/2195-time-needed-to-buy-tickets) |
