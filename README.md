@@ -130,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0735-asteroid-collision](https://github.com/SuprijaDevi/Leetcode/tree/master/0735-asteroid-collision) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/SuprijaDevi/Leetcode/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0777-toeplitz-matrix](https://github.com/SuprijaDevi/Leetcode/tree/master/0777-toeplitz-matrix) |
+| [0794-swim-in-rising-water](https://github.com/SuprijaDevi/Leetcode/tree/master/0794-swim-in-rising-water) |
 | [0841-shortest-distance-to-a-character](https://github.com/SuprijaDevi/Leetcode/tree/master/0841-shortest-distance-to-a-character) |
 | [0861-flipping-an-image](https://github.com/SuprijaDevi/Leetcode/tree/master/0861-flipping-an-image) |
 | [0898-transpose-matrix](https://github.com/SuprijaDevi/Leetcode/tree/master/0898-transpose-matrix) |
@@ -450,6 +451,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0417-pacific-atlantic-water-flow](https://github.com/SuprijaDevi/Leetcode/tree/master/0417-pacific-atlantic-water-flow) |
 | [0566-reshape-the-matrix](https://github.com/SuprijaDevi/Leetcode/tree/master/0566-reshape-the-matrix) |
 | [0777-toeplitz-matrix](https://github.com/SuprijaDevi/Leetcode/tree/master/0777-toeplitz-matrix) |
+| [0794-swim-in-rising-water](https://github.com/SuprijaDevi/Leetcode/tree/master/0794-swim-in-rising-water) |
 | [0861-flipping-an-image](https://github.com/SuprijaDevi/Leetcode/tree/master/0861-flipping-an-image) |
 | [0898-transpose-matrix](https://github.com/SuprijaDevi/Leetcode/tree/master/0898-transpose-matrix) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/SuprijaDevi/Leetcode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
@@ -474,6 +476,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0540-single-element-in-a-sorted-array](https://github.com/SuprijaDevi/Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0611-valid-triangle-number](https://github.com/SuprijaDevi/Leetcode/tree/master/0611-valid-triangle-number) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/SuprijaDevi/Leetcode/tree/master/0745-find-smallest-letter-greater-than-target) |
+| [0794-swim-in-rising-water](https://github.com/SuprijaDevi/Leetcode/tree/master/0794-swim-in-rising-water) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/SuprijaDevi/Leetcode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1646-kth-missing-positive-number](https://github.com/SuprijaDevi/Leetcode/tree/master/1646-kth-missing-positive-number) |
 | [1730-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/SuprijaDevi/Leetcode/tree/master/1730-special-array-with-x-elements-greater-than-or-equal-x) |
@@ -543,6 +546,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0355-design-twitter](https://github.com/SuprijaDevi/Leetcode/tree/master/0355-design-twitter) |
 | [0407-trapping-rain-water-ii](https://github.com/SuprijaDevi/Leetcode/tree/master/0407-trapping-rain-water-ii) |
 | [0451-sort-characters-by-frequency](https://github.com/SuprijaDevi/Leetcode/tree/master/0451-sort-characters-by-frequency) |
+| [0794-swim-in-rising-water](https://github.com/SuprijaDevi/Leetcode/tree/master/0794-swim-in-rising-water) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/SuprijaDevi/Leetcode/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [2728-sum-in-a-matrix](https://github.com/SuprijaDevi/Leetcode/tree/master/2728-sum-in-a-matrix) |
 ## Design
@@ -616,6 +620,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0257-binary-tree-paths](https://github.com/SuprijaDevi/Leetcode/tree/master/0257-binary-tree-paths) |
 | [0417-pacific-atlantic-water-flow](https://github.com/SuprijaDevi/Leetcode/tree/master/0417-pacific-atlantic-water-flow) |
 | [0543-diameter-of-binary-tree](https://github.com/SuprijaDevi/Leetcode/tree/master/0543-diameter-of-binary-tree) |
+| [0794-swim-in-rising-water](https://github.com/SuprijaDevi/Leetcode/tree/master/0794-swim-in-rising-water) |
 ## Binary Tree
 |  |
 | ------- |
@@ -636,6 +641,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0127-word-ladder](https://github.com/SuprijaDevi/Leetcode/tree/master/0127-word-ladder) |
 | [0407-trapping-rain-water-ii](https://github.com/SuprijaDevi/Leetcode/tree/master/0407-trapping-rain-water-ii) |
 | [0417-pacific-atlantic-water-flow](https://github.com/SuprijaDevi/Leetcode/tree/master/0417-pacific-atlantic-water-flow) |
+| [0794-swim-in-rising-water](https://github.com/SuprijaDevi/Leetcode/tree/master/0794-swim-in-rising-water) |
 ## Counting Sort
 |  |
 | ------- |
@@ -671,4 +677,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0164-maximum-gap](https://github.com/SuprijaDevi/Leetcode/tree/master/0164-maximum-gap) |
+## Union Find
+|  |
+| ------- |
+| [0794-swim-in-rising-water](https://github.com/SuprijaDevi/Leetcode/tree/master/0794-swim-in-rising-water) |
 <!---LeetCode Topics End-->
